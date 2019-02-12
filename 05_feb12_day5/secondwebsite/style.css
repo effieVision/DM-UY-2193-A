@@ -1,0 +1,26 @@
+/*The . refers to a class*/
+.redtext {
+    color: #ff3333;
+}
+
+/*The # refers to an id */
+#bluetext {
+    color: aqua;
+}
+
+#greentext {
+    color: darkgreen;
+}
+
+#purple {
+    background-color: blueviolet;
+}
+
+#yellow{
+    background-color: greenyellow;
+}
+
+span {
+    color: sandybrown;
+}
+
