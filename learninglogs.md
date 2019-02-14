@@ -36,10 +36,10 @@ Learning Logs Presentaton schedule:
 
 #### April 2 & 4: Brian, Chester
 
-#### April 9 & 11: Brian, Ellie
+#### April 9 & 11: Ellie, Morgan
 
-#### April 16 & 18: Morgan, Chico
+#### April 16 & 18: Chico, Jei
 
-#### April 23 & 25: Jei, Vanda
+#### April 23 & 25: Vanda, Angie
 
-#### April 30: Angie, Mari
+#### April 30: Mari
