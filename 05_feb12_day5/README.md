@@ -12,7 +12,7 @@
   
 * Continuing with CSS
 
-* Box Model
+~~* Box Model~~
 
 ### Homework
 
