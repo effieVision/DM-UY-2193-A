@@ -22,4 +22,24 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 
 Learning Logs Presentaton schedule:
 
-(Will be published at the end of the add/drop period.)
+#### Feb 19 & 21: Jide, Chris
+
+#### Feb 26 & 28: Lolla, Jason
+
+#### March 5 & 7: Melissa, Oliwia
+
+#### March 12 & 14: Janesa, Jessica
+
+#### March 19 & 21: NO CLASSES: Spring Break
+
+#### March 26 & 28: Leire, Mia
+
+#### April 2 & 4: Brian, Chester
+
+#### April 9 & 11: Brian, Ellie
+
+#### April 16 & 18: Morgan, Chico
+
+#### April 23 & 25: Jei, Vanda
+
+#### April 30: Angie, Mari
