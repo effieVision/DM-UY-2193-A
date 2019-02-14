@@ -28,7 +28,7 @@ Learning Logs Presentaton schedule:
 
 #### Feb 26: Lolla
 
-### Feb 28: Jason
+#### Feb 28: Jason
 
 #### March 5: Melissa  
 
