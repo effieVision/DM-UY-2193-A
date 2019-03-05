@@ -21,3 +21,5 @@
 
 
 ### Homework
+
+* Do a Learning Log on Flexbox by Thursday.
