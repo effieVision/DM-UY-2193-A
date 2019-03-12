@@ -36,11 +36,11 @@ Learning Logs Presentaton schedule:
 
 #### March 12: Janesa
 
-#### March 14: Jessica
+#### March 14: no presentations
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
-#### March 26: Leire
+#### March 26: Leire & Jessica
 
 #### March 28: Mia
 
