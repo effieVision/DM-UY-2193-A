@@ -16,3 +16,5 @@
 ### Homework
 
 * Grading is updated on NYU Classes. Please check your assignments for any comments requesting resubmission ASAP.
+
+* HAVE A GREAT SPRING BREAK!
