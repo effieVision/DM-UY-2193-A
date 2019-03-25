@@ -42,9 +42,11 @@ Learning Logs Presentaton schedule:
 
 #### March 26: Leire & Jessica
 
-#### March 28: Mia
+#### March 28: no presentations
 
-#### April 2 & 4: no presentations
+#### April 2: no presentations
+
+#### April 4: Mia
 
 #### April 9: Ellie
 
