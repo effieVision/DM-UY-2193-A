@@ -8,7 +8,7 @@ Welcome back!
 
 * Bootstrap in-class assignment
 
-This assignment will begin in class with a partner. You are free to complete it after class time ends, as the due date is not until Tuesday. Please work with your partner on one machine during class and include both students' names on your project folder. Each student will need their own submission for this assignment, so please share your files with each other at the end of class.
+This assignment will begin in class with a partner. Please work with your partner on one machine during class and include both students' names on your project folder. Each student will need their own submission for this assignment, so please share your files with each other at the end of class.
 
 You and your partner should pick a topic to create a new website around. You do not need to include a lot of content, but it does need to be cohesive.
 
