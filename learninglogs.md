@@ -56,8 +56,8 @@ Learning Logs Presentaton schedule:
 
 #### April 18: Jei
 
-#### April 23: Vanda & Brian
+#### April 23: no presentations
 
-#### April 25: Angie
+#### April 25: Angie & Vanda
 
-#### April 30: Mari
+#### April 30: Mari & Brian
