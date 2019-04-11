@@ -1,6 +1,6 @@
 ## Day 18
 
-* April 23 guest speakers from 9-10:20 (moving learning logs from Vanda and Brian to accommodate)
+* April 23 guest speakers from 8:45-10:20 (moving learning logs from Vanda and Brian to accommodate)
 
 * NOTE: Dan Phiffer's talk in Dynamic Web Apps will now begin at 2:30 instead of 3pm!
 
