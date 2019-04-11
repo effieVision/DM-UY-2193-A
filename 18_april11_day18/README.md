@@ -4,6 +4,8 @@
 
 * NOTE: Dan Phiffer's talk in Dynamic Web Apps will now begin at 2:30 instead of 3pm!
 
+* [Slides for today](https://docs.google.com/presentation/d/1wz898KBb-3fPLuEn_LOuTSauqoS6zQs8rzXgRsiiWnM/edit?usp=sharing)
+
 * Learning Log: Morgan
 
 * JS Practice: Strings, Integers, Floats, Arrays
