@@ -40,7 +40,7 @@ Learning Logs Presentaton schedule:
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
-#### March 26: Leire & Jessica
+#### March 26: Jessica
 
 #### March 28: no presentations
 
@@ -54,7 +54,7 @@ Learning Logs Presentaton schedule:
 
 #### April 16: Chico & Chester
 
-#### April 18: Jei
+#### April 18: Jei & Leire
 
 #### April 23: no presentations
 
