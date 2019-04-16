@@ -72,13 +72,68 @@ var thirdArray = [firstArray, secondArray]
 var num = 15
 
 //js accepts equality as == or ===. When you use === you are ensureing TRUE equality.
-if (num === 15){
-    alert('you have the correct number!')
-}else if (num > 15){
-    alert('your number is too big')
-}else{
-    alert('please choose another number')
+//if (num === 15){
+//    alert('you have the correct number!')
+//}else if (num > 15){
+//    alert('your number is too big')
+//}else{
+//    alert('please choose another number')
+//}
+
+//writing functions
+
+//to make a procedure, set of instructions that make things easier
+//compartamentalize 
+//setting up a small machine that performs a simple procedure
+
+//setting it up
+function sayHello(){
+    console.log('hellooooooooo')
 }
+
+//calling the function
+//sayHello()
+
+//setting up a function with arguments
+function addNumber(numberOne, numberTwo){
+    return numberOne + numberTwo //return exits the function
+}
+
+//calling the addNumber function
+//console.log(addNumber(40,60));
+
+//create a function that acts like a virtual door
+//if we call door #1, we will return tacos
+//if we call door #2, we will return pizza
+//if we call door #3, we will get bagels
+
+//function that contains an if/else statement
+
+//test each of your doors by calling the function at least 3 times
+
+function door(num){
+  if (num === 1){
+    return 'Tacos'
+  }
+  else if (num === 2){
+    return 'Pizza'
+  }
+  else if (num === 3){
+    return 'Bagels'
+  }
+    else {
+        return 'there are only 3 doors!'
+    }
+}
+//console.log(door(1));
+//console.log(door(2));
+//console.log(door(3));
+console.log(door(5));
+
+
+
+
+
 
 
 
