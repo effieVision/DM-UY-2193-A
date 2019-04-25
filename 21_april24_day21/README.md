@@ -26,6 +26,6 @@ One idea:
  
 OR:
 
-Include an image of a hat or a moustache or something else silly that your pet might want to wear. Allow the user to click on the animal and have that click move the object to that position on the pet. (Want a hint? Try it first, then scroll down) 
+Include an image of a hat or a moustache or something else silly that your pet might want to wear. Allow the user to click on the animal and have that click move the object to that position on the pet.
 
 Push this code to Github Pages and submit the link to your live page and source code under Assignment #8.
