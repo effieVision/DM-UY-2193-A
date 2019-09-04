@@ -7,18 +7,13 @@
 
 **DM-UY 2193 SECTION A Intro to Web Development**
 
-**Spring 2019 – Professor Sarah Dahnke**
+**Fall 2019 – Professor Effie / Eric Rieper**
 
-*Tuesday + Thursday 8:30am - 10:20am,  2 MetroTech Center Room 813*
+*Monday + Wednesday 2:30 - 4:20pm, 370 Jay St. Room 310*
 
 *Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
 
-*To contact professor: on Slack @sarah, email srd280@nyu.edu*
-
-*NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.*
-*Office hours are by appointment on Tuesdays and Thursdays from 1:20-2:20. You may set up an appointment by using [this Calendly](https://calendly.com/sarahrosedahnke)*
-
-*Our grad assistant Moeezo will be holding office hours on Fridays from 10am-6pm. You can [book an appointment with her here](https://calendar.google.com/calendar/selfsched?sstoken=UU9qT1RXc1ZrTkZRfGRlZmF1bHR8MDRmNTVjZjNiMmQ3MWNmNGE4MWYyNTMwYWIwNzljMmI).*
+*To contact professor: on Slack (TO BE ADDED), email effie.vision@gmail.com*
 
 ## A note about this syllabus
 This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
@@ -29,7 +24,7 @@ Basic computer knowledge. Basic familiarity with any programming/scripting langu
 
 ## Course Description
 
-In this course, students focus on client-side programming. Assignments are arranged in sequence to enable the production of a website of professional quality in design and production. This studio stresses interactivity, usability, and the quality and appropriateness of look and feel.
+In this course, students focus on client-side programming. Assignments are arranged in sequence to enable the production of a website of professional quality in design and production, or push The Web as an abstract medium. This studio stresses interactivity, usability, and the quality and appropriateness of look and feel.
 
 This course will provide a basic understanding of the methods and techniques of developing a simple to moderately complex web site. Using the current standard web page language, students will be instructed on creating and maintaining a simple web site using HTML5, CSS3, JavaScript and various external libraries.
 
@@ -62,24 +57,25 @@ By the end of the course, students will be able to:
 
 4 - Create an internal developer / creative community
 
+5 - Apply their new technical ability to deconstruct technological systems with the same rigor to deconstructing the social and economic systems that brought them into our day-to-day lives.
+
 
 ### Course Objectives**
 
 * User Interface (UI) / User Experience (UX)
 * HTML5 / CSS3
-* HTML/CSS/SASS Frameworks: Bootstrap, Materialize, etc.
 * The Responsive Web (flexible media & media queries)
 * Javascript/Javascript Libraries
 
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
-* Github Account: github.com/join
+* Github Account: github.com/join (To be done as a class, will coordinate if you already have an account.)
 * Developer Tools for Chrome or Firefox
-  * Firebug for Firefox, http://getfirebug.com or
-  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools 
-* HTML Text Editor (Atom, Sublime Text, Brackets.io, etc)
+  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools or
+	* Firebug for Firefox, http://getfirebug.com
+* HTML Text Editor: [http://atom.io](Atom)
 * Web Server Space
-	* We will be using Github Pages to host your websites, but you are welcome to purchase your own server space as well.
+	* We will be using Github Pages to host your websites, but will learn about other free and commercial alternatives as well.
 
 
 ### Course Structure
@@ -90,9 +86,21 @@ Class time will be spent as a combination of lecture, review, and in class exerc
 
 There is no required textbook for this course, however students will be required to complete various online tutorials between classes.
 
+We will rely on language and library specific documentation and [https://www.w3schools.com/](W3Schools) extensively– one of our goals as a class is to "learn how to learn" by becoming adept at navigating these online resources.
+
 #### Laptop Usage During Class
 
 I love having WiFi available and I think it is a valuable tool for use in the classroom. Unfortunately, it can very easily be a distraction as well. Laptop use will be expected in class but should be focused on class-specific material, applications, and research. Whenever classmates or guests are presenting please keep your laptop closed. The quality of the class depends in large part on your attention and active participation, so please respect your fellow classmates and close your lid.
+
+## Code Plagiarism
+
+It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. Period.
+
+If you use code from elsewhere (which you will at times), I expect you to cite the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level. I expect you to comment each line on a granular level. In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
+
+If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
+
+Seriously.
 
 ## Grading
 
@@ -160,10 +168,14 @@ If you are student with a disability who is requesting accommodations, please co
 ## Notable Dates
 You can find the official academic calendar [here](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1184)
 
-**Sunday, February 10, 2019**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
+**Monday, September 16, 2019** - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
 
-**Monday, March 18-24, 2019** - Spring Break
+**Monday, October 14, 2019** - Fall Recess (aka No class)
 
-**Friday, April 5, 2019** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
+**Tuesday, October 15, 2019** - Legislative Day - Classes will meet according to a Monday schedule. (aka Come to class)
 
-**Monday, May 13** - Last day of Spring 2019 Classes
+**Monday, November 4, 2019** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
+
+**Wednesday, November 27, 2019 - Friday, November 29, 2019** - Student Thanksgiving Recess
+
+**Friday, December 13, 2019** - Last day of Fall 2019 Classes
