@@ -18,14 +18,55 @@
 * [Slides from today](https://docs.google.com/presentation/d/1xUyn2fCw0eY05uulNM33B-gNWwcjqadEzm6MkdIs3ag/edit?usp=sharing)
 
 
-### Homework:
+### Post-class Communique
+```
+Hello Web Developers!
 
-1. For Thursday: Design thinking. Each student will choose 1 movement, artist, or designer for a 2-3 min presentation to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images for each. This presentation will count toward your class participation grade.
+::: HOMEWORK – DUE FOR PRESENTATION IN CLASS ON MONDAY 09/09 :::
 
-2. Complete a Learning Log this week that will help you begin to learn the introductory concepts of HTML and CSS. Suggestions:
- * [W3 Schools](https://www.w3schools.com/html/)
- * [Codecademy](https://www.codecademy.com/learn/learn-html)
- * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML)
- * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
+Now that we have learned the absolute basic structure of
+what makes a web page functional– make something... anything!
 
- 3. Make sure you have downloaded a text editor for code and have Chrome or Firefox installed
+Use the tags we covered in class and produce any
+composition, artwork, digital poetry, or website.
+
+You will be expected to extensively browse and begin
+getting acquainted with W3Schools ( https://www.w3schools.com/html/default.asp )
+
+Review their sections of what we covered in class:
+HTML Basics, HTML Elements, HTML Styles.
+
+Make sure to review the following sections:
+HTML Attributes, HTML Images, HTML Links.
+
+And browse their CSS page to apply inline
+( https://www.w3schools.com/css/default.asp )
+
+-- HOMEWORK DELIVERABLE: --
+
+Your piece must:
+- Have the correct basic structure (<html>, <body>, content...)
+- Use at least three (3) different tags in the body.
+- Additionally, use at least one image. <img>
+- Use the "style" attribute at LEAST one (1) time.
+- Contain comments about what the lines of HTML do.
+  note: This is the one time your commenting can be generalized, if needed.
+
+::: LASTLY :::
+
+As we saw in class today, we have students with a WIDE range
+of prior experiences. It is important that we operate in a way
+that is respectful to that diversity of knowledge.
+
+Those of you who have programming experience:
+I expect you to focus on what we are learning from assignment to assignment-
+there are ways to push your technical capabilities and STILL stay on topic
+with what the entire class is learning, together. I promise!
+
+I'm looking forward to this semester with all of you– see ya Monday!
+
+::: LINKS :::
+
+Lorem Ipsum generator– https://www.lipsum.com/
+Carl Sagan Ipsum generator– http://saganipsum.com/
+```
