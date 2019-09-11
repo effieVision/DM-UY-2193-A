@@ -2,6 +2,8 @@
 
 #### In-Class
 
+* Slides [link](https://docs.google.com/presentation/d/1tfOhjVd-BdCzzZckk2VyGB3ziTJt1VGZVWdpl8ZUBt8/edit?usp=sharing) or pdf in this repo.
+
 * Day 1 homework presentations
 
 * Intro to UNIX/command line
