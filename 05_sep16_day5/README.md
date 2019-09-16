@@ -1,35 +1,16 @@
-## Day 5
+## Week 3 - Class A
+
+* See [slides.pdf](Slides-Web_03a.pdf) in this directory for in-class slides.
+
+* Github Pages review.
 
 * HTML questions that have emerged?
 
-* Review of proper file structure via the command line. Create your directories/files via the command line THEN open in your text editor!
-
-* How to use Inspect
-
-* Continue with HTML:
-  * Unordered and ordered lists
-  * Divs/classes/ids
-  
-* Continuing with CSS
-
-~~* Box Model~~
+* The fundamentals of positioning and layout with CSS.
+	* Box model, `display`, `box-sizing`, `width`/`height`, `position`, `margin`, `padding`, `top` / `left` etc...
 
 ### Homework
 
-* Revisit Assignment #1. We're going to start adding some CSS. Make sure you click over to NYU Classes and submit your work under Assignment #2.
+Using paper or design software “block out” a layout for a small three-page website. Think about C.R.A.P. as you come up with your design.
+Next homework, you will be turning this into a small website about an issue or cause you care about.
 
-  * Include at least three attributes on your page. You can either add these attributes to existing elements or add additional elements and attach attributes.
-  
-  * Style the elements with attributes in your style.css file.
-  
-  * Add a background color to at least one element on the page
-  
-  * Include and style at least one span element
-  
-  * Feel free to add any additional CSS styling you desire.
-
-* Remember you should be completing one learning log per week! Suggestions:
-  * HTML attributes
-  * Box model
-  * CSS alignment
-  * Command line
