@@ -9,6 +9,12 @@
 * The fundamentals of positioning and layout with CSS.
 	* Box model, `display`, `box-sizing`, `width`/`height`, `position`, `margin`, `padding`, `top` / `left` etc...
 
+* **C.R.A.P.** design
+	* Contrast
+	* Repetition
+	* Alignment
+	* Proximity
+
 ### Homework
 
 Using paper or design software “block out” a layout for a small three-page website. Think about C.R.A.P. as you come up with your design.
