@@ -4,17 +4,24 @@
   body {
     background-color: #EEE;
     font-family: sans-serif;
+    padding: 0;
+    margin: 0;
   }
 
   .mainContainer {
     font-size: 24pt;
     padding: 25px;
+    padding-left: 300px;
   }
 
   .menu {
     background-color: #DDD;
     padding: 15px;
     text-align: center;
+    width: 250px;
+    left: 0px;
+    position: fixed;
+    height: 100%;
   }
 
   .navLink {
@@ -78,15 +85,19 @@
 
 <body>
 
+  <div class="menu">
+    <a class="navLink" href="page01.html">page1</a>
+    <a class="navLink" href="page02.html">page2</a>
+    <a class="navLink" href="page03.html">page3</a>
+  </div>
+
   <div class="mainContainer">
 
-    <div class="menu">
-      <a class="navLink" href="page01.html">page1</a>
-      <a class="navLink" href="page02.html">page2</a>
-      <a class="navLink" href="page03.html">page3</a>
+    <div class="callOutHeader">
+      <h1>CATS</h1>
+      <h3>What are they? How do they work? Where do they come from?</h3>
+      <p>America needs to know.</p>
     </div>
-
-    <div class="callOutHeader">TEXT HERE</div>
 
     <div class="content">
 
