@@ -2,26 +2,35 @@
 
 <style>
   body {
-    background-color: #EEE;
+    background-color: #FFF;
     font-family: sans-serif;
     padding: 0;
     margin: 0;
+    color: #A6866A;
   }
 
   .mainContainer {
     font-size: 24pt;
-    padding: 25px;
-    padding-left: 300px;
+    padding-left: 400px;
+    padding-right: 100px;
+    margin: 0px;
   }
 
   .menu {
-    background-color: #DDD;
+    background-color: #E4EAF2;
     padding: 15px;
-    text-align: center;
     width: 250px;
     left: 0px;
+    top: 0px;
     position: fixed;
     height: 100%;
+    font-size: 24pt;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #D93D1A;
   }
 
   .navLink {
@@ -29,12 +38,12 @@
   }
 
   .callOutHeader {
-    background-image: url('https://placekitten.com/800/600');
-    padding: 50px;
-    margin-left 0px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    color: #fff;
+    background-image: url('https://placekitten.com/1080/800');
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 400px;
+    margin-bottom: 100px;
+    color: #FFF;
     font-weight: bolder;
     font-size: 48pt;
     background-size: cover;
@@ -45,8 +54,14 @@
     font-weight: lighter;
   }
 
+  .subTitle {
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-bottom: 5px solid #A6866A;
+  }
+
   .logo {
-    background-color: #ff0072;
+    background-color: #D93D1A;
     position: fixed;
     right: 25px;
     top: 25px;
@@ -54,11 +69,28 @@
     font-weight: bolder;
   }
 
+  .twoColumnContainer {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+
+  .oneColumn {
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+    width: 49%;
+  }
+
   .smallContainer {
     box-sizing: border-box;
-    background-color: #333;
-    border: 10px solid gold;
+    background-color: #F2F1DF;
     padding: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
 
   .smallContent {
@@ -66,18 +98,28 @@
     display: inline-block;
     margin: 5px;
     padding: 10px;
-    background-color: gold;
-    text-color: #333;
+    background-color: #A6866A;
+    color: #F2F1DF;
+  }
+
+  .footer {
+    margin-bottom: 100px;
+    color: #E4EAF2;
+    text-align: right;
   }
 
   .thumbnailContainer {
-    background-color: #333;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 0px;
   }
 
   .thumbnail {
-    width: 300px;
-    height: 300px;
     display: inline-block;
+    width: 32%;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
     background-size: cover;
     background-position: center;
   }
@@ -86,35 +128,44 @@
 <body>
 
   <div class="menu">
-    <a class="navLink" href="page01.html">page1</a>
-    <a class="navLink" href="page02.html">page2</a>
-    <a class="navLink" href="page03.html">page3</a>
+    <p><a class="navLink" href="index.html">HOME</a></p>
+    <p><a class="navLink" href="page02.html">RESEARCH</a></p>
+    <p><a class="navLink" href="page03.html">LINKS</a></p>
+  </div>
+
+  <div class="logo">@</div>
+
+  <div class="callOutHeader">
+    <h1>CATS</h1>
+    <h3>What are they?</h3>
   </div>
 
   <div class="mainContainer">
 
-    <div class="callOutHeader">
-      <h1>CATS</h1>
-      <h3>What are they? How do they work? Where do they come from?</h3>
-      <p>America needs to know.</p>
-    </div>
 
     <div class="content">
 
+      <h3 class="subTitle">We may never know.</h3>
+
       <p>Galaxies kindling the energy hidden in matter Euclid circumnavigated vastness is bearable only through love bits of moving fluff.</p>
-      <p>Network of wormholes tendrils of gossamer clouds Apollonius of Perga as a patch of light as a patch of light concept of the number one?</p>
-      <p>Emerged into consciousness totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
-        consequatur consectetur Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo?</p>
-    </div>
 
-    <div class="thumbnailContainer">
-      <div class="thumbnail" style="background-image: url('https://placekitten.com/800/600')"></div>
-      <div class="thumbnail" style="background-image: url('https://placekitten.com/80/600')"></div>
-      <div class="thumbnail" style="background-image: url('https://placekitten.com/200/200')"></div>
-    </div>
+      <div class="thumbnailContainer">
+        <div class="thumbnail" style="background-image: url('https://placekitten.com/800/600')"></div>
+        <div class="thumbnail" style="background-image: url('https://placekitten.com/80/600')"></div>
+        <div class="thumbnail" style="background-image: url('https://placekitten.com/200/200')"></div>
+      </div>
 
-    <div class="logo">@</div>
+      <div class="twoColumnContainer">
+        <div class="oneColumn">
+          <p>Network of wormholes tendrils of gossamer clouds Apollonius of Perga as a patch of light as a patch of light concept of the number one?</p>
+        </div>
+        <div class="oneColumn">
+          <p>Emerged into consciousness totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+            consequatur consectetur Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
+            explicabo?</p>
+        </div>
+      </div>
+    </div>
 
     <div class="smallContainer">
       <div class="smallContent">1</div>
@@ -123,6 +174,12 @@
       <div class="smallContent">Anything</div>
       <div class="smallContent">5</div>
       <div class="smallContent">6</div>
+    </div>
+
+    <div class="footer">
+      <p>
+        2019 Cat Investigation Consortium
+      </p>
     </div>
 
     <div>
