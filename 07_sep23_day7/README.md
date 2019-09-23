@@ -6,9 +6,6 @@
 
 * Flexbox Froggy - https://flexboxfroggy.com/
 
-### FYI HTML shortcuts for various text editors:
-[HTML Shell](http://htmlshell.com/), HTML Skeleton (Brackets), HTML Boilerplate (Sublime), [Atom-html-template](https://atom.io/packages/atom-html-templates)
-
 ### Homework
 
 #### Deliverable
