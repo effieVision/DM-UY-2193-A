@@ -1,26 +1,11 @@
-## Day 8
+## Week 4 Class B
 
-* Learning Log Presentation: Lolla
+* CSS Units
 
-* Review of push to Github
+* The magic of viewport based sizing
 
-    * What to do [if your origin already exists](https://help.github.com/en/articles/removing-a-remote)!
-    
-* In-class Github exercise + gallery walk
+* Full flexbox layout
 
-* CSS Layout: 
-
-    * default display values
-    
-    * CSS position
-    
-    * verticle and horizontal position
-    
-    * building a one-page website
-    
 ### Homework
 
-* Make sure you submit your in-class assignment!
-
-* Complete a Learning Log on any topic that came up during your in-class assignment where you realized you need clarity.
-
+* Revise or re-create your 3 page website with extensive use of flexbox, and viewport based units where appropriate.
