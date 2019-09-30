@@ -1,21 +1,11 @@
-## Day 9
+## Day 9 (Week 5 class A)
 
-* Learning Log: Jason
+* Advanced CSS Selectors
 
-* CSS Layout: 
+  * https://www.w3schools.com/cssref/css_selectors.asp
 
-    * default display values
-    
-    * CSS position
-    
-    * verticle and horizontal position
-    
-    * building a one-page website
-    
+* If we have time: Begin advanced CSS typography rules
+
 ### Homework
 
-* Build a one-page website of your own, where the navigation bar is in a fixed location and directs to different points on the page. (See files in onepager folder for an example.)
-
-Push your code to Github, hosting the site on Github pages. Submit BOTH the link to your repository (that lists your files) and the link to where the website is hosted on NYU Classes under Assignment #4.
-
-
+* Experiment with advanced CSS selectors. You can just make a visual composition, a webpage, or apply the things we learned to a previous site you've made.
