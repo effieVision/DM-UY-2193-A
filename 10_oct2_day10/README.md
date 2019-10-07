@@ -1,16 +1,6 @@
 ## Day 10
 
-* Learning Log: Melissa
-
-* Homework questions?
-
-* Google Fonts
-
-* Intro to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-* Play [Flexbox Froggy!](https://flexboxfroggy.com/)
-
-* Flexbox code-along
+* Check ins and review your chosen Design Reference
 
 ### Resources
 
