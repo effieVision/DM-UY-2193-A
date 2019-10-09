@@ -10,6 +10,8 @@ Afterwards, we will take a look at CSS `grid` before you jump into the [http://c
 
 * Complete the CSS Grid Garden exercise, and submit your zipped screenshots to me like you did with Flexbox Froggy: http://cssgridgarden.com/
 
+* Review CSS Tricks' [https://css-tricks.com/snippets/css/complete-guide-grid/](A Complete Guide to Grid) – This is an ENORMOUSLY helpful resource that you can keep open and reference throughout the process of making a `grid` based layout.
+
 * _Please_ watch the entire "[https://www.youtube.com/watch?v=7kVeCqQCxlk](CSS Grid Changes Everything)" – they cover many other interesting parts of the system.
 
 * Consider the feedback you received in class about your project proposal. Continue collecting references and moodboarding your idea.
