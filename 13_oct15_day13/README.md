@@ -1,9 +1,11 @@
- ## Day 13
+## Day 13
 
- * CSS Grid
+* Remaining midterm presentations
 
- * Review of current references and midterm plans
+* CSS Grid in practice
+
+* In-class work
 
 ### Homework
 
-* CSS Grid Garden
+* You should be making major progress on your midterm; next class is the last time we are meeting before you submit them.
