@@ -14,24 +14,12 @@
 - https://docs.google.com/presentation/d/1fPOo-qqqQ9ozO0X2cxX-Oslq4lrDukzyTOFfgYSeVFA/edit#slide=id.p
 - Colorful, space themed, Z-indexing, layering, BIG BOLD TYPE, knockouts?
 
-[ ] Huang,Yuzhi
-- https://docs.google.com/presentation/d/1VJwqevnRcioARASyp0N-RpMMBQpU9mgZrqMo5Pdyetk/edit?usp=sharing
-
-[ ] Hwang,Jimmy
--
-
 [x] Knox,John
 - https://docs.google.com/presentation/d/14BZZEzo5ewPGTUsryTAMaudQG_YUhnAbk7aEJvYZN7Q/edit?ts=5d9e11a1#slide=id.p
 - VR space experience
 
-[ ] Lee,Daniel Heechan
--
-
 [x] Lee,Jason
 - Photo Portfolio site, heavily gridded
-
-[ ] Lee,Soo Jin
--
 
 [x] McBride,Dominique
 - https://docs.google.com/presentation/d/12r6X-v58Okb_sXTsrgoVxcJ1eGUENi_OOn_DtOAyZjc/edit#slide=id.p
@@ -41,22 +29,35 @@
 - https://docs.google.com/presentation/d/1u5eoNlPhxJ8A07q89YKde6EjjkDrXBv3-0q25s8_co8/edit?ts=5d9e230c#slide=id.g63132eb5d6_1_1
 - Bilingual news site
 
-[ ] Olanday,Gabriel
--
-
-[ ] Parthiban,Anand
-- https://docs.google.com/presentation/d/1I72dXTyNCHcAEiBoCgz2yesKevZhxRIThp6rnxiOuZc/edit#slide=id.p
-
 [x] Pilika,Joann
 - https://github.com/Joap49/Midterm
 - Beauty care site, no layout yet, refs good
 
-[ ] Shin,Ji Hwan
+[x] Wang,Ruoxi
+- https://docs.google.com/presentation/d/18kMDZ9NyqqKxi16oYL5E8IB8h0i8IYvoHlunJyRjkIA/edit#slide=id.p1
+- Neon noir film theatre
+
+[x] Lee,Daniel Heechan
+- https://drive.google.com/drive/folders/1Iw4vIKy3MOJjdIR40dcndHVYW4WvIKs0
+- Neon noir bar - Starlight bar
+
+[ ] Parthiban,Anand
+- https://docs.google.com/presentation/d/1I72dXTyNCHcAEiBoCgz2yesKevZhxRIThp6rnxiOuZc/edit#slide=id.p
+
+[ ] Lee,Soo Jin
+-
+
+[ ] Olanday,Gabriel
+-
+
+[ ] Shin,Ji Hwan (Eric)
 -
 
 [ ] Tong,Markk
 -
 
-[x] Wang,Ruoxi
-- https://docs.google.com/presentation/d/18kMDZ9NyqqKxi16oYL5E8IB8h0i8IYvoHlunJyRjkIA/edit#slide=id.p1
-- Neon noir film theatre
+[ ] Huang, Yuzhi
+- https://docs.google.com/presentation/d/1VJwqevnRcioARASyp0N-RpMMBQpU9mgZrqMo5Pdyetk/edit?usp=sharing
+
+[ ] Hwang, Jimmy
+- Promosite for self as DJ / Producer
