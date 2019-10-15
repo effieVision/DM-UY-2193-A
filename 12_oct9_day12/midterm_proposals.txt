@@ -47,8 +47,9 @@
 [ ] Lee,Soo Jin
 -
 
-[ ] Olanday,Gabriel
--
+[x] Olanday,Gabriel
+- Promo page for Twitch channel
+- 
 
 [ ] Shin,Ji Hwan (Eric)
 -
@@ -56,8 +57,9 @@
 [ ] Tong,Markk
 -
 
-[ ] Huang, Yuzhi
+[x] Huang, Yuzhi
 - https://docs.google.com/presentation/d/1VJwqevnRcioARASyp0N-RpMMBQpU9mgZrqMo5Pdyetk/edit?usp=sharing
 
-[ ] Hwang, Jimmy
+[x] Hwang, Jimmy
 - Promosite for self as DJ / Producer
+-
