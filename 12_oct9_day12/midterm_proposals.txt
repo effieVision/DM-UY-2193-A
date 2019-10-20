@@ -39,22 +39,10 @@
 
 [x] Lee,Daniel Heechan
 - https://drive.google.com/drive/folders/1Iw4vIKy3MOJjdIR40dcndHVYW4WvIKs0
-- Neon noir bar - Starlight bar
-
-[ ] Parthiban,Anand
-- https://docs.google.com/presentation/d/1I72dXTyNCHcAEiBoCgz2yesKevZhxRIThp6rnxiOuZc/edit#slide=id.p
-
-[ ] Lee,Soo Jin
--
+- Neon noir / VHS vapor bar - Starlight bar
 
 [x] Olanday,Gabriel
 - Promo page for Twitch channel
-- 
-
-[ ] Shin,Ji Hwan (Eric)
--
-
-[ ] Tong,Markk
 -
 
 [x] Huang, Yuzhi
@@ -63,3 +51,16 @@
 [x] Hwang, Jimmy
 - Promosite for self as DJ / Producer
 -
+
+[x] Parthiban,Anand
+- https://docs.google.com/presentation/d/1I72dXTyNCHcAEiBoCgz2yesKevZhxRIThp6rnxiOuZc/edit#slide=id.p
+- Single scroll historical overview of boxing, mondrian layout?
+
+[ ] Lee,Soo Jin
+-
+
+[ ] Shin,Ji Hwan (Eric)
+-
+
+[x] Tong,Markk
+- Masonry grid news site focusing on image rather than article titles

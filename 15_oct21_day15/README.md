@@ -4,11 +4,11 @@
 
 Peer Review Format:
 
-* Designate a note taker for each member of your group. They will be responsible for sending peer feedback via Slack.
+* Open your website on one of your peers' computers. Use your own to take notes about the feedback you receive, things you discover in this process, and ways to improve your site. You will email me this along with your [Midterm Self-Assessment](https://github.com/IDMNYU/DM-UY-2193-A/blob/master/midtermselfassessment.md).
 
-* First demonstrate and show, then walk through how you built the site. 
+* First, allow time for each member of your group to navigate the site on their own.
 
-* Allow time for each member of your group to navigate the site on their own.
+* Then demonstrate and show, then walk through how you built the site.
 
 * When feedback is being offered, allow each person to speak without interruption. You are to simply receive the information.
 
@@ -26,8 +26,6 @@ Peer Review Framework:
 
 ### Homework
 
-* Complete the [Midterm Self-Assessment](https://github.com/IDMNYU/DM-UY-2193-A/blob/master/midtermselfassessment.md)
+* Complete the [Midterm Self-Assessment](https://github.com/IDMNYU/DM-UY-2193-A/blob/master/midtermselfassessment.md) – NOTE: Please submit to me via email, not NYU Classes.
 
-* Remember to catch up on any missing work before midterm grades are submitted on Friday.
-
-
+* You MUST submit any late work to me by next class, as I will be submitting midterm grades.
