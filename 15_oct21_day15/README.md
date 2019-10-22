@@ -24,8 +24,31 @@ Peer Review Framework:
 
 * What are the strongest elements? What would you recommend to strengthen the site?
 
-### Homework
+## Homework
 
-* Complete the [Midterm Self-Assessment](https://github.com/IDMNYU/DM-UY-2193-A/blob/master/midtermselfassessment.md) – NOTE: Please submit to me via email, not NYU Classes.
+### Self Assessment Paper
 
-* You MUST submit any late work to me by next class, as I will be submitting midterm grades.
+Complete the Midterm Self Assessment:
+
+Write a narrative midterm self-evaluation that is a bare minimum of 2 complete paragraphs.
+
+
+```
+In this narrative, address the following:
+
+    * What do I know about this subject right now?
+
+    * What has my journey looked like?
+
+    * How has my learning effected my understanding of what I can create with these tools? How has my learning effected what I may be inspired to create?
+
+    * What can I do to remain engaged, inspired and productive?
+```
+
+Synthesize what you are noticing in your notes, assignments, etc. with regard to your learning.
+
+Your assessment should have a minimum of three citations from lectures, weekly discussions, code or concepts, and/or tutorials.
+
+### Midterm grading
+
+You MUST submit any late work to me by next class, as I will be submitting midterm grades.
