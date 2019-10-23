@@ -1,16 +1,33 @@
-.topnav {
-/*    overflow: hidden;*/
-    background-color: grey;
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+
 }
+
+/* FLEXBOX TOGGLE */
+.topnav {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ff0072;
+}
+
+/* GRID TOGGLE */
+/* .topnav {
+  width: 100%;
+  display: grid;
+  grid-template: repeat(1, 1fr);
+  background-color: #323dc6;
+} */
 
 /* Style the topnav links */
 .topnav a {
-    float: left;
-    display: block;
     color: #f3f3f3;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 2em;
+    font-weight: bolder;
 }
 
 /* Change color on hover */
@@ -20,9 +37,18 @@
 }
 
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .topnav a {
-    float: none;
-    width: 100%;
+@media screen and (min-width: 600px) {
+
+  /* FLEXBOX TOGGLE */
+  .topnav {
+    background-color: #0ea7e8;
+    flex-direction: row;
+    justify-content: space-between;
   }
+
+  /* GRID TOGGLE */
+  /* .topnav {
+    background-color: #cee416;
+    grid-template-columns: repeat(3, 1fr);
+  } */
 }

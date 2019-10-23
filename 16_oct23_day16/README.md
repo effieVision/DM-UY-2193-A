@@ -1,11 +1,10 @@
 ## Day 16
 
-* Learning Log: Mia
+### Responsive Media Queries & Basics of Animation
 
-* Media Queries
-
-    * Media Queries Exercise
-
+- Lightning quick presentations of everyone's midterm site
+- Intro to Animation with CSS Transitions
+- Media queries for mobile web
 
 ### Resources
 
@@ -30,4 +29,4 @@
 
 ### Homework
 
-* Take one page of your midterm assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Publish this on Github Pages, and submit the link to your updated page on NYU Classes.
+* Take one page of your midterm assignment and create two breakpoints. Include one for mobile and one for desktop. Publish this on Github Pages, and submit the link to me via email.
