@@ -5,20 +5,23 @@ body {
 }
 
 /* FLEXBOX TOGGLE */
-.topnav {
+/* .topnav {
   width: 100%;
   display: flex;
   flex-direction: column;
   background-color: #ff0072;
-}
+} */
 
 /* GRID TOGGLE */
-/* .topnav {
+.topnav {
   width: 100%;
   display: grid;
-  grid-template: repeat(1, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   background-color: #323dc6;
-} */
+  box-sizing: border-box;
+  padding: 0;
+  transition: padding 3s;
+}
 
 /* Style the topnav links */
 .topnav a {
@@ -36,19 +39,21 @@ body {
     color: darkgray;
 }
 
-/* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
+/* On screens that are 600px wide or more, make the menu links stack on top of each other instead of next to each other */
 @media screen and (min-width: 600px) {
 
   /* FLEXBOX TOGGLE */
-  .topnav {
+  /* .topnav {
     background-color: #0ea7e8;
     flex-direction: row;
     justify-content: space-between;
-  }
+  } */
 
   /* GRID TOGGLE */
-  /* .topnav {
+  .topnav {
     background-color: #cee416;
+    opacity: 1.0;
+    padding: 4vmin;
     grid-template-columns: repeat(3, 1fr);
-  } */
+  }
 }
