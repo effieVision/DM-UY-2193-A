@@ -1,66 +1,96 @@
-//sending messages to the developers console
-//console.log('I received a click!') //included a string in quotation marks
+/*
+  NOTE:
+  In Javascript you can comment a single line with two slashes,
+  or create a block-comment with this slash+asterisk syntax.
+*/
 
-//what is a variable?
-//a place to store data: string, integers (whole numebrs) & floats(decimal), boolean(true/false)
-//string: uses quotation marks to literally mark a string
+//////////////////// Console + Alert ////////////////////
 
-//defining variables
+//// sending messages to the developers console
+//console.log("Trick or Treat!"); //included a string in quotation marks
 
-//ES6 uses let and const to define variables
-var firstName = 'Sarah '
-var lastName = 'Dahnke'
-var space = ' '
+//// Popping open an alert window
+// alert("Boo!");
 
-//console.log(firstName[5]); //strings are also arrays that can be indexed
+//////////////////// Variables / Types ////////////////////
 
-//concatinating variables
+/*
+  What is a variable?
+  a place to store data:
+  string, integers (whole numebrs) & floats(decimal), boolean(true/false)
+*/
+
+//// defining variables
+//// string: uses quotation marks to literally mark a string
+
+// var firstName = "Happy";
+// var lastName = "Halloween";
+// var space = " ";
+
+//// concatinating variables
+
 //console.log(firstName + ' ' + lastName); //option 1 for creating a space
-//console.log(firstName, lastName)//option 2
-//console.log(firstName + space + lastName)//option 3
-//console.log(firstName + lastName)
+//console.log(firstName, lastName); //option 2
+//console.log(firstName + space + lastName); //option 3
+//console.log(firstName + lastName);
 
-//storing integers
-var num1 = '5'
+//// storing integers
 
-//storing floats
-var num2 = 5.4
-var num3 = 4
+// var num1 = '5';
 
-//console.log(num1 + num2 + num3);
-//55.44-concatination if we don't use parenthesis
-//59.4-math if parenthesis are added to num2 + num3
+//// storing floats
 
-//math
-//addition + 
-//subtraction -
-//multiply *
-//divide /
+// var num2 = 5.4;
+// var num3 = 4;
+// console.log(num1 + num2 + num3);
 
-//creating arrays
-//what is an array? an array is a LIST
+//// 55.44-concatination if we don't use parenthesis
+//// 59.4-math if parenthesis are added to num2 + num3
 
-var firstArray = ['bert', 'ernie', 'big bird', 'snuffie']
-var secondArray = ['kermit', 'miss piggy', 'gonzo', 'swedish chef']
-//multidimensional array
-var thirdArray = [firstArray, secondArray]
+/*
+  math:
+  addition +
+  subtraction -
+  multiply *
+  divide /
+*/
 
-//console.log(firstArray);//console log of the full array
+//////////////////// Arrays ////////////////////
+
+//// creating arrays
+//// what is an array? an array is a COLLECTION of items
+
+/*
+  NOTE:
+  Items in an array are referenced by their "index"
+  which starts at ZERO, not ONE.
+*/
+
+// var firstArray = ["spooky", "scary", "haunted", "spectral", "dark"];
+// var secondArray = ["pumpkin", "little ghost", "cat", "bat", "zombie", "candy"];
+
+//// Print entire array...
+//console.log(firstArray); //console log of the full array
 //console.log(secondArray);
 
-//console.log(firstArray[2])
+//// Print one item from the array...
+//console.log(firstArray[1]);
+//console.log(secondArray[0]);
+//scary
+//little ghost
 
-//console.log(thirdArray[1][2]);
-//gonzo
-//big bird
+//////////////////// LOGIC with CONDITIONALS ////////////////////
 
-//set up control flow with if/else statements
-//< or >
-//<= or >=
+/*
+  Set up control flow with if/else statements
+  < or >
+  <= or >=
+*/
 
-//var num = 15
-//
-////js accepts equality as == or ===. When you use === you are ensureing TRUE equality.
+//// js accepts equality as == or ===. When you use === you are ensureing TRUE equality.
+
+//var num = 15;
+
 //if (num === 15){
 //    console.log('you have the correct number!')
 //}else if (num > 15){
@@ -69,96 +99,90 @@ var thirdArray = [firstArray, secondArray]
 //    console.log('please choose another number')
 //}
 
-var num = 15
+//////////////////// FUNCTIONS ////////////////////
 
-//js accepts equality as == or ===. When you use === you are ensureing TRUE equality.
-//if (num === 15){
-//    alert('you have the correct number!')
-//}else if (num > 15){
-//    alert('your number is too big')
-//}else{
-//    alert('please choose another number')
-//}
+/*
+  There are many functions in JavaScript for modifying values, math, etc...
+*/
 
-//writing functions
+//// Random FLOAT from 0-1
+// console.log(Math.random());
 
-//to make a procedure, set of instructions that make things easier
-//compartamentalize 
-//setting up a small machine that performs a simple procedure
+//// Random FLOAT from 0-50
+// console.log(Math.random() * 50);
 
-//setting it up
-function sayHello(){
-    console.log('hellooooooooo')
-}
+//// Random INTEGER from 0-length of an array, giving us an INDEX...
+// var secondArray = ["pumpkin", "little ghost", "cat", "bat", "zombie", "candy"];
+// var randomIndex = Math.floor(Math.random() * secondArray.length);
+// console.log(randomIndex);
 
-//calling the function
+//// Random item from array using our random index
+// console.log(secondArray[randomIndex]);
+
+
+//////////////////// CUSTOM FUNCTIONS ////////////////////
+
+/*
+  to make a procedure, set of instructions that make things easier
+  compartamentalize setting up a small machine that performs a simple procedure
+*/
+
+//// Setting it up
+
+// function sayHello(){
+//     console.log('hellooooo!')
+// }
+
+//// Calling the function
+
 //sayHello()
 
-//setting up a function with arguments
-function addNumber(numberOne, numberTwo){
-    return numberOne + numberTwo //return exits the function
-}
+//// Setting up a function with arguments / parameters
 
-//calling the addNumber function
-//console.log(addNumber(40,60));
+// function addNumber(numberOne, numberTwo){
+//     console.log("Result: " + (numberOne + numberTwo));
+// }
 
-//create a function that acts like a virtual door
-//if we call door #1, we will return tacos
-//if we call door #2, we will return pizza
-//if we call door #3, we will get bagels
+//// Calling the addNumber function
 
-//function that contains an if/else statement
+// addNumber(40,60);
 
-//test each of your doors by calling the function at least 3 times
+//// RETURNING values from a function
 
-function door(num){
-  if (num === 1){
-    return 'Tacos'
-  }
-  else if (num === 2){
-    return 'Pizza'
-  }
-  else if (num === 3){
-    return 'Bagels'
-  }
-    else {
-        return 'there are only 3 doors!'
-    }
-}
+// function addNumberAndReturn(numberOne, numberTwo){
+//     return numberOne + numberTwo;
+// }
+
+// console.log(addNumberAndReturn(400,200))
+
+//////////////////// LOGICAL OPERATORS ////////////////////
+
+/*
+  create a function that acts like a virtual door
+  if we call door #1, we will return Hall of Mirrors
+  if we call door #2, we will return Mummy Bathroom
+  if we call door #3, we will return Witchy Kitchen
+*/
+
+//// function that contains an if/else statement
+//// test each of your doors by calling the function at least 3 times
+
+// function door(num){
+//   if (num === 1){
+//     return "Hall of Mirrors";
+//   }
+//   else if (num === 2){
+//     return "Mummy Bathroom";
+//   }
+//   else if (num === 3){
+//     return "Witchy Kitchen";
+//   }
+//     else {
+//         return "There are only 3 doors!";
+//     }
+// }
+
 //console.log(door(1));
 //console.log(door(2));
 //console.log(door(3));
-console.log(door(5));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// console.log(door(5));
