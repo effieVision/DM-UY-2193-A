@@ -28,6 +28,9 @@ Create a `function` that takes in two arguments and returns a concatenated strin
 ##### `04-functionConditions.js`
 Create a `function` that takes in one argument that is passed through a conditional statement. (For example, something like our haunted house `door()` function.) Print some resulting text to the `console`.  Test all of your conditions to make sure you can receive all of your results back.
 
+#### `05-randomWords.js`
+Create an `array` of strings and use `random()` to select random entries and add them to a sentence, printing the result to the console.
+
 #### Deliverable format
 
 Create one `index.html`, include the scripts, and send me your **GitHub link** – the page does not need to be shared publicly via Github Pages.
