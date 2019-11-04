@@ -40,7 +40,6 @@ Start with this webpage, which has inputs and buttons for things to calculate:
 </head>
 <body>
 
-
   <label>Half this number...
     <input type="number" id="half-input">
   </label>
@@ -54,11 +53,14 @@ Start with this webpage, which has inputs and buttons for things to calculate:
   <br><br>
   <div id="fortune-output"></div>
 
-
 </body>
 </html>
 ```
 
 Add a script tag, and add your functions.
 
-For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result of the calculation in the solution div.
+For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result.
+
+#### Deliverable Format
+
+Make this a functional webpage hosted via GitHub Pages and send me the link.
