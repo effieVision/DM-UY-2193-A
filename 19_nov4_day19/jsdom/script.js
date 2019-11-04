@@ -11,5 +11,6 @@ executeButton.addEventListener('click', demonstrationFunction);
 //////////////////////////
 
 function demonstrationFunction() {
-  alert("Hi there!");
+  var inputContents = document.getElementById("myInput").value;
+  alert("You input " + inputContents + "!");
 }
