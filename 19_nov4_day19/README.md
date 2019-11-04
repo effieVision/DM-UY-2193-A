@@ -10,6 +10,8 @@
 
     * Changing innerHTML
 
+    * Modifying CSS
+
     * adding event listeners
 
     * functions, if statements and forms
