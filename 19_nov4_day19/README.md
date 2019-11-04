@@ -16,6 +16,9 @@
 
     * functions, if statements and forms
 
+### Resources
+- eventListener names: https://developer.mozilla.org/en-US/docs/Web/Events
+
 ### Homework:
 
 *Calculator*
