@@ -45,9 +45,9 @@ Start with this webpage, which has inputs and buttons for things to calculate:
   <label>Give me your name and I'll give you a fortune...
     <input id="fortune-input">
   </label>
-  <button id="area-button">Get Fortune</button>
+  <button id="fortune-button">Get Fortune</button>
   <br><br>
-  <div id="fortune"></div>
+  <div id="fortune-output"></div>
 
 
 </body>
@@ -57,5 +57,3 @@ Start with this webpage, which has inputs and buttons for things to calculate:
 Add a script tag, and add your functions.
 
 For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result of the calculation in the solution div.
-
-Push your assignment to Github, and connect it to Github Pages. Submit both the link to your live page and your source code on NYU Classes under Assignment #7.
