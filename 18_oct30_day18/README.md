@@ -32,7 +32,6 @@ Create a `function` that takes in one argument that is passed through a conditio
 
 Create one `index.html`, include the scripts, and send me your **GitHub link** – the page does not need to be shared publicly via Github Pages.
 
-
 ### Review for next week
 
 * Read [What is the Document Object Model](https://www.w3.org/TR/DOM-Level-1/introduction.html) and [Eloquent Javascript: The Document Object Model](http://eloquentjavascript.net/14_dom.html)

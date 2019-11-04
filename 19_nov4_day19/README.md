@@ -1,27 +1,20 @@
 ## Day 19
 
-* Learning Logs: Chico & Chester
-
-* JS review: conditional statements 
+* JS review: conditional statements
 
 * Continuing JS: functions
 
 * Manipulating the DOM with JS
 
-    * Using the alert function
-    
     * Grabbing elements by ID, Class, Element name
-    
+
     * Changing innerHTML
-    
+
     * adding event listeners
-    
+
     * functions, if statements and forms
-    
-* Mad Libs
 
-
-### Homework: 
+### Homework:
 
 *Calculator*
 
@@ -36,7 +29,7 @@ Write a function called areaOfCircle that will take one argument (the radius), c
 Bonus: Round the result so there are only two digits after the decimal.
 
 
-Start with this webpage, which has inputs and buttons for things to calculate: 
+Start with this webpage, which has inputs and buttons for things to calculate:
 
 ```
 <!DOCTYPE html>
@@ -52,13 +45,13 @@ Start with this webpage, which has inputs and buttons for things to calculate:
   </label>
   <button id="square-button">Calculate</button>
   <br><br>
-  
+
   <label>Half this number:
     <input type="number" id="half-input" size="2">
   </label>
   <button id="half-button">Calculate</button>
   <br><br>
-  
+
   <label>
     Fraction:
     <input type="number" id="percent1-input" size="2">
@@ -69,15 +62,15 @@ Start with this webpage, which has inputs and buttons for things to calculate:
   </label>
   <button id="percent-button">Calculate</button>
   <br><br>
-  
+
   <label>Calculate area of circle with radius:
     <input type="number" id="area-input" size="2">
   </label>
-  <button id="area-button">Calculate</button> 
+  <button id="area-button">Calculate</button>
   <br><br>
   <div id="solution"></div>
 
-  
+
 </body>
 </html>
 ```
