@@ -1,5 +1,5 @@
-var img = document.getElementsByTagName('img')[0] 
-//[0] is optional at this point because there is only one image
+var img = document.getElementsByTagName('img')[0]
+//[0] makes sure we get the "first" image found on page.
 
 //img.style.left = '0px'
 
@@ -7,13 +7,13 @@ var img = document.getElementsByTagName('img')[0]
 
 //goal: move cat from left side to right side
 
-//function catWalk(){
-//    var oldLeft = parseInt(img.style.left)
-//    var newLeft = oldLeft + 1
-//    img.style.left = newLeft + 'px'
-//}
-//
-//window.setInterval(catWalk, 10);
+function catWalk(){
+   var oldLeft = parseInt(img.style.left)
+   var newLeft = oldLeft + 1
+   img.style.left = newLeft + 'px'
+}
+
+window.setInterval(catWalk, 10);
 
 //new goal: when the cat reaches the right hand of the screen, have it reset back to the left
 
@@ -25,16 +25,16 @@ var img = document.getElementsByTagName('img')[0]
 img.style.left = '0px'
 
 //more sophisticated approach
-var makeKittyWalk = function() {
-  var left = parseInt(img.style.left)
-  left = left + 10
-  if (left > window.innerWidth){
-    left = -300
-  }
-  img.style.left = left + 'px'
-}
-
-window.setInterval(makeKittyWalk, 50)
+// var makeKittyWalk = function() {
+//   var left = parseInt(img.style.left)
+//   left = left + 10
+//   if (left > window.innerWidth){
+//     left = -300
+//   }
+//   img.style.left = left + 'px'
+// }
+//
+// window.setInterval(makeKittyWalk, 50)
 
 //if you don't use .innerwidth and try to assume the size of the screen, image will loop but not fully exit the screen
 // function catWalk(){
@@ -42,15 +42,9 @@ window.setInterval(makeKittyWalk, 50)
 //         img.style.left = '0px'
 //     }
 //     var oldLeft = parseInt(img.style.left)
-//    
+//
 //     var newLeft = oldLeft + 1
 //     img.style.left = newLeft + 'px'
 // }
 //
 //window.setInterval(catWalk, 10)
-
-
-
-
-
-

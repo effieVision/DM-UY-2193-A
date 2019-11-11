@@ -4,7 +4,7 @@
 - [ ] Chou, Kasper –
 - [ ] Dhamija, Uma Rachel:
 - [ ] Funt, Jenni – [local]
-- [ ] Knox, John –
+- [ ] Knox, John – https://jaceekko.github.io/Calculator-Assignment/
 - [ ] Lee, Jason –
 - [ ] McBride, Dominique – 
 - [ ] Moon, JiYoung –
@@ -17,4 +17,4 @@
 - [ ] Parthiban, Anand –
 - [ ] Lee, Soo Jin – https://soojinlee9.github.io/JS-Calc:Fortune/
 - [ ] Shin, Ji Hwan (Eric) – 
-- [ ] Tong, Markk – 
+- [ ] Tong, Markk –  https://markk0217.github.io/java2/
