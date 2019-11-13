@@ -12,7 +12,7 @@ Media Elements and External library showcase
 
 * Icon sets – https://cdnjs.com/libraries/font-awesome
 
-* Lightbox (popup) – https://sorgalla.com/lity/
+* Lightbox (popup) – http://fancyapps.com/fancybox/3/
 
 * Slideshow / carousel – https://glidejs.com/
 
