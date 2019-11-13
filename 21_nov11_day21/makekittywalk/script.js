@@ -1,4 +1,4 @@
-var img = document.getElementsByTagName('img')[0]
+var img = document.getElementsByTagName('img')[0];
 //[0] makes sure we get the "first" image found on page.
 
 //img.style.left = '0px'
@@ -7,13 +7,15 @@ var img = document.getElementsByTagName('img')[0]
 
 //goal: move cat from left side to right side
 
-function catWalk(){
-   var oldLeft = parseInt(img.style.left)
-   var newLeft = oldLeft + 1
-   img.style.left = newLeft + 'px'
-}
+// function catWalk(){
+   var oldLeft = parseInt(img.style.left);
+   var newLeft = oldLeft + 1;
+//    img.style.left = newLeft + 'px';
+// }
 
-window.setInterval(catWalk, 10);
+document.addEventListener('DOMContentLoaded', function(event) {
+  window.setInterval(makeKittyWalk, 10);
+});
 
 //new goal: when the cat reaches the right hand of the screen, have it reset back to the left
 
@@ -25,14 +27,18 @@ window.setInterval(catWalk, 10);
 img.style.left = '0px'
 
 //more sophisticated approach
-// var makeKittyWalk = function() {
-//   var left = parseInt(img.style.left)
-//   left = left + 10
-//   if (left > window.innerWidth){
-//     left = -300
-//   }
-//   img.style.left = left + 'px'
-// }
+function makeKittyWalk() {
+
+  var oldLeft = parseInt(img.style.left);
+  var newLeft = oldLeft + 10;
+
+  if (newLeft > window.innerWidth){
+    newLeft = -300;
+  }
+
+  img.style.left = newLeft + 'px';
+}
+
 //
 // window.setInterval(makeKittyWalk, 50)
 
@@ -42,7 +48,6 @@ img.style.left = '0px'
 //         img.style.left = '0px'
 //     }
 //     var oldLeft = parseInt(img.style.left)
-//
 //     var newLeft = oldLeft + 1
 //     img.style.left = newLeft + 'px'
 // }

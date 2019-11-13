@@ -1,12 +1,25 @@
 ## Day 22
 
-* Last learning logs: Mari & Brian
+Media Elements and External library showcase
 
-* [Jquery](https://api.jquery.com/)
-    * [Jquery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
-    
-* Final Project Check-in
+* CSS Reset / Normalize – https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e
+
+* Parallax – https://github.com/dixonandmoe/rellax
+
+* Lazy Load – https://github.com/ApoorvSaxena/lozad.js
+
+* Responsive Embeds – https://embedresponsively.com/
+
+* Icon sets – https://cdnjs.com/libraries/font-awesome
+
+* Lightbox (popup) – https://sorgalla.com/lity/
+
+* Slideshow / carousel – https://glidejs.com/
+
+* JQuery – https://jquery.com/
+
+
 
 ### Homework
 
-* Move forward with your final projects! You should be ready to focus on code at this point, which means you should have your design elements in place, including wireframe and moodboard. 
+Begin thinking about and gathering references / assembling a mood board for your final project.
