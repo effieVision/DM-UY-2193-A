@@ -23,15 +23,17 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   /// Set up the click and reveal
   for (var i = 0; i < clickerElements.length; i++) {
+
     console.log("Setting up #" + i);
-    clickerElements[i].addEventListener('click', function(event) {
+
+    clickerElements[i].addEventListener('click', function(detailsAboutTheThingThatWasClicked) {
 
       /// Show the POPOVER CONTAINER
       popoverElement.style.display = "block";
 
       /// The element we CLICKED on...
       console.log("CLICKED...");
-      var clickedElement = event.target;
+      var clickedElement = detailsAboutTheThingThatWasClicked.target;
       console.log(clickedElement);
 
       /// The ID of the CONTENT we should reveal...
@@ -53,6 +55,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   closeButton.addEventListener('click', function() {
     popoverElement.style.display = "none";
-  })
+  });
 
 });
