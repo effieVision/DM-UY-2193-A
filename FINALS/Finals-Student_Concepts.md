@@ -3,7 +3,7 @@
 - [ ] Deborah Alalade:
 - [x] Kasper Chou: Interactive aquarium
       - Lots of good thought put into the experience
-      -
+      - Needs more thought and focus on the actual website itself
 - [ ] Uma Rachel Dhamija:
 - [ ] Jenni Funt:
 - [ ] John Knox:
