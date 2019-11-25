@@ -1,46 +1,46 @@
-### Intro to Web – Libraries
+### Intro to Web – Final project pitches
 
-- [ ] Deborah Alalade –
-- [ ] Kasper Chou: Interactive aquarium
+- [ ] Deborah Alalade:
+- [x] Kasper Chou: Interactive aquarium
       - Lots of good thought put into the experience
       -
-- [ ] Uma Rachel Dhamija :
-- [ ] Jenni Funt  :
-- [ ] John Knox  :
-- [x] Jason Lee : Photography personal Portfolio
+- [ ] Uma Rachel Dhamija:
+- [ ] Jenni Funt:
+- [ ] John Knox:
+- [x] Jason Lee: Photography personal Portfolio
       - Pages for specific types of photography
       - Nav is big sections on above the fold
       - About page somewhat experimental, novel layout
       - Let content live LARGE in collection view
       -
-- [ ] Dominique McBride :
-- [ ] JiYoung Moon :
+- [ ] Dominique McBride:
+- [ ] JiYoung Moon:
 - [x] Joann Pilika: Portfolio, Poppy colorful
       - Poppy colorful, but watch ref and all the other ones is super minimalist
       - Scroll UX for "research"
       - Animation solved by vector libraries VS video BG
-- [x] Ruoxi (Rosie) Wang : Personal portfolio
+- [x] Ruoxi (Rosie) Wang: Personal portfolio
       - Single scroll / one big page? vs multiple pages
       - Parallaxy "ScrollMagic"
-- [ ] Daniel Heechan Lee :
-- [ ] Gabriel Olanday :
-- [x] Yuzhi Huang : Visual novel game project
+- [ ] Daniel Heechan Lee:
+- [ ] Gabriel Olanday:
+- [x] Yuzhi Huang: Visual novel game project
       - Single scroll, lots of animation
       - Muted with pop color
       - Likes undertale site, just for content layout ref?
       - May need library or JS for detecting scroll position to trigger animations
       - Check out BodyMovin / Lottie
       - SPECIFICALLY: Sections
-- [ ] Jimmy Hwang, :
-- [x] Anand Parthiban : Hollow Night site
+- [ ] Jimmy Hwang:
+- [x] Anand Parthiban: Hollow Night game site
       - Navigate the page using the same keys / mechanics of the actual game
       - Interested in replicating the game UI itself
       - Easter eggs
-- [x] Soo Jin Lee,  – Photo centric food blog :
+- [x] Soo Jin Lee: Photo centric food blog
       - Masonry
       - Single photo to represent everything– "ALL HERO"
       - Complex, boils down to a lightbox with all content. Could use some UX thought
-- [x] Ji Hwan (Eric) Shin :
+- [x] Ji Hwan (Eric) Shin: Drag portfolio, mishmash of high fidelity and web grunge?
       - Reactive element in middle of page, image full bleed in BG
       - Needs to be different from midterm...
 - [x] Markk Tong : Jackie Chan site, make it less 2008
@@ -48,4 +48,3 @@
       - Multi language
       - Very interested in user interaction / messageboard etc
         - Interested in having realtime comments pop up on screen?
-      -
