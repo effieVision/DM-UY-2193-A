@@ -11,8 +11,6 @@
 
 *Monday + Wednesday 2:30 - 4:20pm, 370 Jay St. Room 307*
 
-*Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
-
 *To contact professor: er129@nyu.edu*
 
 ## A note about this syllabus
