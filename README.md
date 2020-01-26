@@ -7,7 +7,7 @@
 
 **DM-UY 2193 SECTION A Intro to Web Development**
 
-**Fall 2019 – Professor Effie / Rieper**
+**Fall 2019 – Professor Effie Rieper**
 
 *Monday + Wednesday 2:30 - 4:20pm, 370 Jay St. Room 307*
 
