@@ -7,13 +7,13 @@
 
 **DM-UY 2193 SECTION A Intro to Web Development**
 
-**Fall 2019 – Professor Effie / Eric Rieper**
+**Fall 2019 – Professor Effie / Rieper**
 
 *Monday + Wednesday 2:30 - 4:20pm, 370 Jay St. Room 307*
 
 *Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
 
-*To contact professor: on Slack (TO BE ADDED), email effie.vision@gmail.com*
+*To contact professor: er129@nyu.edu*
 
 ## A note about this syllabus
 This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
